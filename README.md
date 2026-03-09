@@ -28,22 +28,19 @@ This project is built using React (frontend) and Node.js with Express (backend),
 
 ---
 
-## Project Architecture
-
-
 Hire
 │
 ├── frontend
-│ ├── React + Vite application
-│ ├── Handles UI and user interaction
-│ └── Communicates with backend APIs
+│   ├── React + Vite application
+│   ├── Handles UI and user interaction
+│   └── Communicates with backend APIs
 │
 └── backend
-├── Node.js + Express server
-├── MongoDB database connection
-├── Authentication with JWT
-├── Resume parsing
-└── API routes
+    ├── Node.js + Express server
+    ├── MongoDB database connection
+    ├── Authentication with JWT
+    ├── Resume parsing
+    └── API routes
 
 
 ---
