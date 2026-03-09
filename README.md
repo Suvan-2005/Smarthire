@@ -1,4 +1,5 @@
 Hire – AI Based Resume Screening and Hiring Platform
+
 Overview
 
 Hire is a web-based recruitment platform that helps companies streamline the hiring process by automatically analyzing resumes and matching candidates with job requirements.
@@ -23,7 +24,8 @@ Features
 
 📈 Recruiter dashboard for viewing candidates
 
-![Smart Hire Architecture]![Smarthire](https://github.com/user-attachments/assets/1f6ef51d-4187-4175-9730-2380fe67bc03)
+!Smart Hire Architecture!
+                                                    [Smarthire](https://github.com/user-attachments/assets/1f6ef51d-4187-4175-9730-2380fe67bc03)
 
 
 Project Architecture
