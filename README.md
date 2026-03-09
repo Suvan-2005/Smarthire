@@ -28,6 +28,9 @@ This project is built using React (frontend) and Node.js with Express (backend),
 
 ---
 
+## Project Architecture
+
+```
 Hire
 │
 ├── frontend
@@ -41,6 +44,7 @@ Hire
     ├── Authentication with JWT
     ├── Resume parsing
     └── API routes
+```
 
 
 ---
